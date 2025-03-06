@@ -1,0 +1,2 @@
+# coding
+WAG COPY PASTE LANG
